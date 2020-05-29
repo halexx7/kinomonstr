@@ -53,6 +53,10 @@ ul li {
 	line-height: 1.5em;
 }
 
+hr {
+	border: solid 1px #f3f3f3;
+}
+
 .header {
 	background-color: darkslateblue; /* Цвет фона*/
 	height: 177px; /* Высота блока */
@@ -194,6 +198,25 @@ ul.menu li a:hover {
 	border-radius: 5px;
 	border: solid 5px #dad7d5;
 	width: 22%;
+}
+
+.posts .posts_content {
+	font-size: 0.8em;
+}
+
+.info_film_page {
+	margin-top: 2%;
+	margin-bottom: 4%;
+}
+
+.info_film_page .label {
+	font-size: 1.2em;
+}
+
+.info_film_page .value {
+	font-size: 1em;
+	color: #49945a;
+	margin-right: 3%;
 }
 
 .footer {
